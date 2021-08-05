@@ -20,3 +20,4 @@ An industry in Hubballi is looking for a miniaturized winding machine that can w
 
 [8. Motor Sizing And Battery Sizing](https://github.com/M-Division-2020-2021-Even/Repo_11/wiki/8.-Motor-Sizing-And-Battery-Sizing)
 
+[9. Video Documentation](https://github.com/M-Division-2020-2021-Even/Repo_11/wiki/9.-Video-Documentation)
